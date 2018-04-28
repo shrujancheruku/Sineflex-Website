@@ -472,7 +472,7 @@ button:focus {
 }
 
 .top-nav-collapse {
-    background: #58595b !important;
+    background: #343a40 !important;
     z-index: 999999;
     top: 0px !important;
     padding: 0;
